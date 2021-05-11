@@ -7,9 +7,9 @@
 
 ### Status...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dezordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezordi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&count_private=true&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
