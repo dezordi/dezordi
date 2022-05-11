@@ -3,7 +3,7 @@
 I'm a Brazilian PhD Student at Fundação Oswaldo Cruz (FioCruz) - Instituto Aggeu Magalhães.
 
 - 🔭 I’m currently working on development and application of bioinformatics tools to understand the genomics and the evolution of SARS-CoV-2
-- 🌱 I’m currently learning R and front-end development (HTML+CSS+JS).
+- 🌱 I’m currently learning R and POO in Python.
 
 <!--
 **dezordi/dezordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
