@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 
 ### General Info
 
-
-[![Dezordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&&count_private=true&show_icons=true&theme=dracula&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&&count_private=true&show_icons=true&theme=dracula&langs_count=12&layout=compact" />
+</a>
+<br>
 
 ### Top Repositories
 
@@ -40,4 +43,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dezordi&repo=lab_stuff&theme=dracula" />
 </a>
 <br>
----
