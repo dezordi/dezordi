@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ### General Info
 
 
-[![Dezordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezordi&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dezordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&show_icons=true&theme=dracula&langs_count=10&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&&count_private=true&show_icons=true&theme=dracula&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
