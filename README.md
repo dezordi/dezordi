@@ -1,3 +1,5 @@
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{dezordi}1212%2Fhit-counter">
+
 ### Hi there 👋,
 
 I'm a Bioinformatician. I work with development and aplication of bioinformatics workflows applied to human and viral genomics. Moreover I`m doing a PhD studying the SARS-CoV-2 evolution. I’m currently learning AWS and WDL.
@@ -30,9 +32,11 @@ I'm a Bioinformatician. I work with development and aplication of bioinformatics
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&&count_private=true&show_icons=true&theme=dracula&langs_count=12&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&&count_private=true&show_icons=true&theme=dracula&langs_count=20&layout=compact" />
 </a>
 <br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dezordi&theme=dracula">
 
 ### Top Repositories
 
