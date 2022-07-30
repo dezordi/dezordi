@@ -41,10 +41,10 @@ I'm a Bioinformatician. I work with development and aplication of bioinformatics
 ### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dezordi/ViralFlow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dezordi&repo=viralflow&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/dezordi/lab_stuff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dezordi&repo=lab_stuff&theme=dracula" />
 </a>
 <br>
