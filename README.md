@@ -32,7 +32,7 @@ I'm a Bioinformatician. I work with development and aplication of bioinformatics
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&&count_private=true&show_icons=true&theme=dracula&langs_count=20&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezordi&count_private=true&show_icons=true&theme=dracula&langs_count=20&layout=compact" />
 </a>
 <br>
 
