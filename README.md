@@ -2,7 +2,7 @@
 
 ### Hi there 👋,
 
-I'm a Bioinformatician. I work with development and aplication of bioinformatics workflows applied to human and viral genomics. Moreover I`m doing a PhD studying the SARS-CoV-2 evolution. I’m currently learning AWS and WDL.
+I'm a Bioinformatician. I work with development and aplication of bioinformatics workflows applied to human and viral genomics. Moreover I'm doing a PhD studying the SARS-CoV-2 evolution. I’m currently learning AWS, WDL and Rust.
 
 ### I build with
 
