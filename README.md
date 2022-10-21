@@ -36,8 +36,6 @@ I'm a Bioinformatician. I work with development and aplication of bioinformatics
 </a>
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dezordi&theme=dracula">
-
 ### Top Repositories
 
 
