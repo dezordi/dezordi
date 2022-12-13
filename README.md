@@ -26,7 +26,7 @@ I'm a Bioinformatician. I work with development and aplication of bioinformatics
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" style="vertical-align:top; margin:4px"> 
 </p>
 
-### General Info
+### General Info (Based on public repositories)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dezordi&count_private=true&show_icons=true&theme=dracula" />
