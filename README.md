@@ -2,8 +2,13 @@
 
 ### Hi there 👋,
 
-My name is Filipe! I'm a Bioinformatician, so I work with development and aplication of bioinformatics workflows applied to human and viral genomics. Moreover I'm doing a PhD studying the SARS-CoV-2 evolution. I’m currently learning AWS, Serverless and improving my python skills 🐍.
+My name is Filipe! I'm a Bioinformatician, so I work with development and aplication of bioinformatics workflows applied to human and viral genomics. In my PhD I worked with the SARS-CoV-2 inter and intrahost evolution.
 
+### The open source projects I'm currently working on
+
+- [ViralFlow](https://github.com/WallauBioinfo/ViralFlow): A Nextflow workflow to analyze NGS viral data through reference-guided approaches.
+- [EEfinder](https://github.com/WallauBioinfo/EEfinder): A python tool/package to identify Endogenous Elements on Eukaryote genomes.
+  
 I've got a website ([check it out here](https://dezordi.github.io/)) with my CV that I update whenever it comes to mind, which is like a few times a year.
 
 ### I build with
