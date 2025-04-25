@@ -1,4 +1,4 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{dezordi}1212%2Fhit-counter">
+![Github Views](https://views.igorkowalczyk.dev/api/badge/dezordi)
 
 ### Hi there 👋,
 
